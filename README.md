@@ -2,7 +2,7 @@
 
 Dive into the STACK OVERFLOW DEVELOPER SURVEY 2019 Dashboard! 🚀
 
-Leveraging IBM Cloud tools, I’ve transformed the Stack Overflow Developer Survey 2019 data into a comprehensive and interactive dashboard.
+Leveraging IBM Cognos Analytics with Watson tools, I’ve transformed the Stack Overflow Developer Survey 2019 data into a comprehensive and interactive dashboard.
 
 Project Overview:
 Methodology:

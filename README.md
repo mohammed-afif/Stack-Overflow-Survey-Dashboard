@@ -8,11 +8,10 @@ Project Overview:
 Methodology:
 
 1- Collect and Explore Data: Gathered data through web scraping, APIs, and databases.
+
 2- Data Cleaning and Wrangling: Ensured data quality by cleaning and organizing it for analysis.
-3- Exploratory Data Analysis:
-4- Analyzed data distribution.
-5- Handled outliers.
-6- Examined correlations.
+
+3- Exploratory Data Analysis: Analyzed data distribution, Handled outliers and Examined correlations.
 
 ----------------------------------------------------------------------------------------------------
 
@@ -24,18 +23,31 @@ Created interactive and insightful dashboards.
 ----------------------------------------------------------------------------------------------------
 
 Dashboard Highlights:
+
 Top 10 Programming Languages
+
 Top 10 Databases
+
 Most Used Platform
+
 Top 10 Web Frameworks
+
 Top 10 Languages Desired Next Year
+
 Top 10 Databases Desired Next Year
+
 Platform Desired Next Year
+
 Top 10 Web Frameworks Desired Next Year
+
 Respondent Classified by Gender
+
 Respondent Count for Countries
+
 Respondent Count by Age
+
 Respondent Count by Gender
+
 Classified by Formal Education Level
 
 

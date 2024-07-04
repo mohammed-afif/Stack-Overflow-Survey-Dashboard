@@ -50,3 +50,5 @@ This project showcases the power of data analysis and visualization using advanc
 ![Screenshot (373)](https://github.com/mohammed-afif/Stack-Overflow-Survey-Dashboard/assets/79763625/73329b9a-813d-46ef-b349-10fcd1772431)
 
 ![Screenshot (374)](https://github.com/mohammed-afif/Stack-Overflow-Survey-Dashboard/assets/79763625/a6f875c5-4ee9-4ccf-a46a-4138970fc3ad)
+
+![Picture1](https://github.com/mohammed-afif/Stack-Overflow-Survey-Dashboard/assets/79763625/677e5130-50bf-4c32-bd3e-495f15409967)
